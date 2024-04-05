@@ -1,6 +1,6 @@
 # Progetto di Codifica dei Testi 2022-2023
 
-Questo repository contiene il progetto di Codifica dei Testi svolto da Leonardo Lelli(619972) e Lara Controne(654489).
+Questo repository contiene il progetto di Codifica dei Testi svolto da Leonardo Lelli (619972) e Lara Controne (654489).
 
 ## Descrizione del Progetto
 
@@ -10,7 +10,8 @@ Il progetto riguarda l'analisi e una codifica image-based di 5 pagine appartenen
 
 - `diario.xml`: File contenente l'annotazione xml vera e propria, validato con Xerces https://xerces.apache.org/
 - `codifica.xsl`: File XSLT che contiene istruzioni per trasformare un documento XML nel nostro output.html, contenuto nella cartella xsl-out.
-- `tei_all.dtd`: Il documento DTD (Document Type Definition) che definisce la struttura e la validità di un documento XML. Elenca gli elementi, gli attributi e le regole che i documenti XML devono seguire per essere considerati validi secondo quel tipo di documento. Nel documento la DTD è basata sullo standard TEI
+- `tei_all.dtd`: Il documento DTD (Document Type Definition) che definisce la struttura e la validità di un documento XML. Elenca gli elementi, gli attributi e le regole che i documenti XML devono seguire per 
+                 essere considerati validi secondo quel tipo di documento. Nel documento la DTD è basata sullo standard TEI
 - `js`: Cartella contenente il file JQuery per aggiungere il frontend al nostro output.html
 - `xsl-out`: Cartella di destinazione per il nostro output XSL
 - `img`: Cartella contenente le immagini
