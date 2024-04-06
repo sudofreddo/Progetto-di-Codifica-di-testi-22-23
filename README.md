@@ -26,7 +26,7 @@ Il progetto riguarda l'analisi e una codifica image-based di 5 pagine appartenen
 
 ### Generazione html con Saxon
 
-java -jar saxon-ee-12.4.jar -s:Codifica/diario.xml -xsl:diario.xsl -o:Codifica/xsl-out/output.html
+java -jar saxon-ee-12.4.jar -s:src/diario.xml -xsl:src/diario.xsl -o:src/xsl-out/output.html
 
 
 ## Autori
