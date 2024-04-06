@@ -4,7 +4,7 @@ Questo repository contiene il progetto di Codifica dei Testi svolto da Leonardo 
 
 ## Descrizione del Progetto
 
-Il progetto riguarda l'analisi e una codifica image-based di 5 pagine appartenenti ai Diari del Partigiano ebreo Emanuele Artom.
+Il progetto riguarda l'analisi e una codifica image-based di 5 pagine appartenenti ai Diari del Partigiano ebreo Emanuele Artom per il corso di Codifica di testi del professor Angelo Mario Del Grosso, nell'anno accademico 2022-2023, all'interno del CdL di Informatica Umanistica.
 
 ## Struttura della cartella Codifica
 
